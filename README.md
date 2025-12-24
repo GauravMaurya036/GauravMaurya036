@@ -1,6 +1,6 @@
 # 💫 About Me
 
-👋 Hello World! I'm **Gaurav Maurya**   
+👋 Hello I'm **Gaurav Maurya**   
 🎓 BBA (Computer Applications) Graduate  
 🧠 Quick learner with a strong problem-solving mindset  
 
